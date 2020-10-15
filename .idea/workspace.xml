@@ -57,7 +57,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
     <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -68,6 +68,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -149,6 +165,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
@@ -172,21 +189,21 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="488" y="296" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.800@0.0.1280.800" timestamp="1602757199563" />
-    <state width="1238" height="394" key="GridCell.Tab.0.bottom" timestamp="1602758519833">
+    <state width="1238" height="291" key="GridCell.Tab.0.bottom" timestamp="1602763757480">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="394" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1602758519833" />
-    <state width="1238" height="394" key="GridCell.Tab.0.center" timestamp="1602758519831">
+    <state width="1238" height="291" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1602763757480" />
+    <state width="1238" height="291" key="GridCell.Tab.0.center" timestamp="1602763757477">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="394" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1602758519831" />
-    <state width="1238" height="394" key="GridCell.Tab.0.left" timestamp="1602758519831">
+    <state width="1238" height="291" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1602763757477" />
+    <state width="1238" height="291" key="GridCell.Tab.0.left" timestamp="1602763757476">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="394" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1602758519831" />
-    <state width="1238" height="394" key="GridCell.Tab.0.right" timestamp="1602758519832">
+    <state width="1238" height="291" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1602763757476" />
+    <state width="1238" height="291" key="GridCell.Tab.0.right" timestamp="1602763757480">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="394" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1602758519832" />
+    <state width="1238" height="291" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1602763757480" />
   </component>
 </project>
